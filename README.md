@@ -3,7 +3,8 @@ This is the print config file for Klipper to work with an Ender 3 using a bigtre
 
 
 The original file can be [found here](https://gist.github.com/arabisaldrin/502a73786fe1e7af83754a0be07949a3), but the menu system didn't work, it seems like it was made for an older version of Klipper
-The top part is settings I found for the ender 3 and bigtreetech skr mini e3 v2 
+
+The top part is settings I found for the ender 3 and bigtreetech skr mini e3 v2 default printer.cfg
 
 ## Parts Required
 - Ender 3 (Original)
@@ -15,3 +16,8 @@ The top part is settings I found for the ender 3 and bigtreetech skr mini e3 v2
 **Ender 3 (Original)** 
 
 Use **basic_printer.cfg** if you do not want to use the display and you want to use USB to RPI
+
+
+## To Use
+
+Download the cfg file you want to try, rename it to printer.cfg and upload it to MainSail, restart klipper
