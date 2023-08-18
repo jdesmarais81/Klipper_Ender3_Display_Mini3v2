@@ -21,3 +21,8 @@ Use **basic_printer.cfg** if you do not want to use the display and you want to 
 ## To Use
 
 Download the cfg file you want to try, rename it to printer.cfg and upload it to MainSail, restart klipper
+
+
+## Preview
+
+![ender display preview](display.png)
