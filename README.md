@@ -24,5 +24,5 @@ Download the cfg file you want to try, rename it to printer.cfg and upload it to
 
 
 ## Preview
-
+*sorry I know it's dusty*
 ![ender display preview](display.png)
